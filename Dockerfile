@@ -1,5 +1,5 @@
 from node:17-alpine as dev
-RUN apk update && apk add --no-cache git
+RUN apk update && apk add --no-cache git openssh
 
 #build steps
 from dev as builder
