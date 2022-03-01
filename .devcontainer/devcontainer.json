@@ -1,0 +1,13 @@
+{
+	"build": {
+		"dockerfile": "../Dockerfile",
+		"target": "dev",
+		"context": ".."
+	},
+	"extensions": ["dbaeumer.vscode-eslint"],
+	"containerEnv": {
+		"DISCORD_TOKEN": "${localEnv:DISCORD_TOKEN}",
+		"DISCORD_CLIENT_ID": "${localEnv:DISCORD_CLIENT_ID}",
+		"DISCORD_GUILD_ID": "${localEnv:DISCORD_GUILD_ID}",
+	}
+}
