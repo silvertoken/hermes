@@ -1,8 +1,9 @@
 const logger = require('./utils/logger');
 const fs = require('node:fs');
 const { Client, Intents, Collection } = require('discord.js');
+const package = require('./package.json');
 
-logger.info('Starting up Hermes discord bot...');
+logger.info(`Starting up Hermes v${ package.version } discord bot`);
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
 // setup a new interactions collection
