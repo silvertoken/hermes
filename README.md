@@ -7,22 +7,25 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Commits][commits-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+	<a href="https://github.com/silvertoken/hermes/graphs/contributors">
+    	<img src="https://shields.io/github/contributors/silvertoken/hermes.svg?style=plastic" alt="Contributors">
+	</a>
+	<a href="https://github.com/silvertoken/hermes/network/members">
+    	<img src="https://shields.io/github/forks/silvertoken/hermes.svg?style=plastic" alt="Forks">
+	</a>
+	<a href="https://github.com/silvertoken/hermes/stargazers">
+    	<img src="https://shields.io/github/stars/silvertoken/hermes.svg?style=plastic" alt="Stars">
+	</a>
+	<a href="https://github.com/silvertoken/hermes/pulse">
+    	<img src="https://shields.io/github/commit-activity/m/silvertoken/hermes.svg?style=plastic" alt="Commits">
+	</a>
+	<a href="https://github.com/silvertoken/hermes/issues">
+    	<img src="https://shields.io/github/issues/silvertoken/hermes.svg?style=plastic" alt="Issues">
+	</a>
+	<a href="https://github.com/silvertoken/hermes/blob/master/LICENSE">
+    	<img src="https://shields.io/github/license/silvertoken/hermes.svg?style=plastic" alt="License">
+	</a>
 </p>
 
 <!-- PROJECT LOGO -->
