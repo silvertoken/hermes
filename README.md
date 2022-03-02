@@ -126,7 +126,7 @@ This bot
    ```
 4. Set ENV vars
    ```sh
-   export DOCKER_TOKEN = 'ENTER YOUR TOKEN';
+   export DISCORD_TOKEN = 'ENTER YOUR TOKEN';
    ```
 5. Start the bot
    ```sh
