@@ -8,7 +8,7 @@ module.exports = {
 	async execute(interaction) {
 		if (!interaction.isCommand()) return;
 		const { commandName } = interaction;
-		logger.info(`executing command ${ commandName }`);
+		logger.info(`Replying to ${ commandName } with Pong!`);
 		await interaction.reply('Pong!');
 	},
 };

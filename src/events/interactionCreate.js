@@ -4,7 +4,7 @@ module.exports = {
 	event: 'interactionCreate',
 	execute: async (interaction, client) => {
 		if (!interaction.isCommand()) return;
-		logger.info(`received command ${ interaction.commandName }`);
+		logger.info(`Received command ${ interaction.commandName }`);
 		const command = client.interactions.get(interaction.commandName);
 
 		if (!command) {
@@ -13,7 +13,7 @@ module.exports = {
 		}
 
 		try {
-			logger.info(`execute command ${ command.data.name }`);
+			logger.info(`Executing command ${ command.data.name }`);
 			await command.execute(interaction, client);
 		}
 		catch (error) {

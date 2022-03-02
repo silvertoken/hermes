@@ -12,7 +12,7 @@ module.exports = (err, files, client) => {
 			: eventFunction.emitter) || client;
 
 		const once = eventFunction.once;
-		logger.info(`adding event ${ event }`);
+		logger.info(`Adding event ${ event }`);
 		try {
 			emitter[once ? 'once' : 'on'](event, (...args) =>
 				eventFunction.execute(...args, client));

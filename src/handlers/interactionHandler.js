@@ -8,7 +8,7 @@ module.exports = async (err, files, client) => {
 	client.interactionsArray = [];
 	files.forEach((file) => {
 		const interaction = require(`../interactions/${file}`);
-		logger.info(`adding interaction ${ interaction.data.name }`);
+		logger.info(`Adding interaction ${ interaction.data.name }`);
 		client.interactions.set(interaction.data.name, interaction);
 		client.interactionsArray.push(interaction.data.toJSON());
 	});
