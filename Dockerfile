@@ -13,5 +13,4 @@ workdir /app
 copy --from=builder /app/ ./
 copy --from=builder /app/node_modules/ ./node_modules/
 copy --from=builder /app/package.json .
-entrypoint ["/bin/bash", "-c"]
-cmd ["npm", "start"]
+entrypoint ["npm", "start"]
