@@ -127,8 +127,6 @@ This bot
 4. Set ENV vars
    ```sh
    export DOCKER_TOKEN = 'ENTER YOUR TOKEN';
-   export DOCKER_CLIENT_ID = 'ENTER YOUR CLIENTID';
-   export DOCKER_GUILD_ID = 'ENTER YOUR SERVERID';
    ```
 5. Start the bot
    ```sh
