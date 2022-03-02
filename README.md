@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -20,10 +18,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Commits][commits-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -45,8 +42,6 @@
     <a href="https://github.com/silvertoken/hermes/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -71,8 +66,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT HERMES -->
 ## About Hermes
 
@@ -87,8 +80,6 @@ It's very unlikely this would work out of the box for anyone else but it could b
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -96,10 +87,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Node.js](https://nodejs.org/en/)
 * [Discord.js](https://discord.js.org/#/)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -135,27 +123,21 @@ This bot
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/silvertoken/hermes/wiki)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -165,8 +147,6 @@ silvertoken - [@silvertoken](https://github.com/silvertoken)
 Project Link: [https://github.com/silvertoken/hermes](https://github.com/silvertoken/hermes)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -180,3 +160,5 @@ Project Link: [https://github.com/silvertoken/hermes](https://github.com/silvert
 [issues-url]: https://github.com/silvertoken/hermes/issues
 [license-shield]: https://shields.io/github/license/silvertoken/hermes.svg?style=for-the-badge
 [license-url]: https://github.com/silvertoken/hermes/blob/master/LICENSE.txt
+[commits-shield]: https://shields.io/github/commit-activity/m/silvertoken/hermes.svg?style=for-the-badge
+[commits-url]: hhttps://github.com/silvertoken/hermes/pulse
