@@ -150,15 +150,15 @@ Project Link: [https://github.com/silvertoken/hermes](https://github.com/silvert
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://shields.io/github/contributors/silvertoken/hermes.svg?style=for-the-badge
+[contributors-shield]: https://shields.io/github/contributors/silvertoken/hermes.svg?style=plastic
 [contributors-url]: https://github.com/silvertoken/hermes/graphs/contributors
-[forks-shield]: https://shields.io/github/forks/silvertoken/hermes.svg?style=for-the-badge
+[forks-shield]: https://shields.io/github/forks/silvertoken/hermes.svg?style=plastic
 [forks-url]: https://github.com/silvertoken/hermes/network/members
-[stars-shield]: https://shields.io/github/stars/silvertoken/hermes.svg?style=for-the-badge
+[stars-shield]: https://shields.io/github/stars/silvertoken/hermes.svg?style=plastic
 [stars-url]: https://github.com/silvertoken/hermes/stargazers
-[issues-shield]: https://shields.io/github/issues/silvertoken/hermes.svg?style=for-the-badge
+[issues-shield]: https://shields.io/github/issues/silvertoken/hermes.svg?style=plastic
 [issues-url]: https://github.com/silvertoken/hermes/issues
-[license-shield]: https://shields.io/github/license/silvertoken/hermes.svg?style=for-the-badge
+[license-shield]: https://shields.io/github/license/silvertoken/hermes.svg?style=plastic
 [license-url]: https://github.com/silvertoken/hermes/blob/master/LICENSE.txt
-[commits-shield]: https://shields.io/github/commit-activity/m/silvertoken/hermes.svg?style=for-the-badge
+[commits-shield]: https://shields.io/github/commit-activity/m/silvertoken/hermes.svg?style=plastic
 [commits-url]: hhttps://github.com/silvertoken/hermes/pulse
